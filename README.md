@@ -34,4 +34,4 @@ for mark in freq:
      if freq[mark] > highest_freq: 
           highest_freq = freq[mark] 
           highest_freq_mark=mark
-print ("d. Mark with highest frequency:", highest_freq_mark)
+print ("d. Mark with highest frequency:", highest_freq_mark)            
